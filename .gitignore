@@ -58,3 +58,6 @@ target/
 
 # Finder
 .DS_Store
+
+# Generated SQLite files
+*.sqlite
