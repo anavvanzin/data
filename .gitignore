@@ -58,3 +58,12 @@ target/
 
 # Finder
 .DS_Store
+
+# Generated SQLite databases
+*.sqlite
+
+# Generated SKOS N-Triples output
+*.nt
+
+# Generated example batches
+examples/
